@@ -16,14 +16,16 @@ https://www.python.org/downloads/
 
 4. Verify that Python has been installed successfully:
 - Open the command prompt.
-- Type ‘python’ and press enter.
-- The version of the python which you have installed will be displayed if the python is successfully installed on your windows.
+- Type `python` and press enter.
+- The version of the python which you have installed will be displayed if the python is successfully installed 
+  on your windows
+  
   ![img](img/step4.jpg)
 
 
 5. Verify that Python-Pip is installed (PIP is a Python Package Manager)
 - Open the command prompt.
-- Enter pip –V to check if pip was installed.
+- Enter `pip –V` to check if pip was installed.
 - The following output appears if pip is installed successfully.
   ![img](img/step5.jpg)
   
